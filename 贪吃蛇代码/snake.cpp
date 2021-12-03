@@ -1,4 +1,3 @@
-```cpp
 #include <cmath>
 #include <time.h>
 #include <easyx.h>
@@ -158,4 +157,3 @@ int main() {
 	closegraph();
 	return 0;
 }
-```
